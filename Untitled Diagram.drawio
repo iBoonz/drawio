@@ -4,45 +4,93 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-1" target="HyDi90Ld1Z15yoM46pRp-2">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HyDi90Ld1Z15yoM46pRp-1" target="HyDi90Ld1Z15yoM46pRp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-1" target="HyDi90Ld1Z15yoM46pRp-4">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HyDi90Ld1Z15yoM46pRp-1" target="HyDi90Ld1Z15yoM46pRp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="HyDi90Ld1Z15yoM46pRp-6">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="HyDi90Ld1Z15yoM46pRp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-1" target="HyDi90Ld1Z15yoM46pRp-8">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HyDi90Ld1Z15yoM46pRp-1" target="HyDi90Ld1Z15yoM46pRp-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-1" value="Safeugards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-1" value="Safeugards" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-2" target="HyDi90Ld1Z15yoM46pRp-1">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HyDi90Ld1Z15yoM46pRp-2" target="HyDi90Ld1Z15yoM46pRp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-10" value="Safeguards" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HyDi90Ld1Z15yoM46pRp-9">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-10" value="Safeguards" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HyDi90Ld1Z15yoM46pRp-9" vertex="1" connectable="0">
           <mxGeometry x="0.1333" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-2" value="Azure OpenAI Models&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-2" value="Azure OpenAI Models&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-4" value="Customer Sources&amp;nbsp;&lt;div&gt;[Azure AI Search - Bing Custom Search-&amp;nbsp;&lt;br&gt;Azure OpenAI Endpoints ]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-4" value="Customer Sources&amp;nbsp;&lt;div&gt;[Azure AI Search - Bing Custom Search-&amp;nbsp;&lt;br&gt;Azure OpenAI Endpoints ]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="630" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-6" value="Health AI Actions&lt;div&gt;[Clinical Coder ..]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-6" value="Health AI Actions&lt;div&gt;[Clinical Coder ..]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-8" value="Healthcare Agent Serivce" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uN1fEKKzv_iWE6055QBn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-8" target="uN1fEKKzv_iWE6055QBn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-8" value="Healthcare Agent Serivce" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="390" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HyDi90Ld1Z15yoM46pRp-12" value="Healthcare Agent Serivce" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="840" width="430" height="60" as="geometry" />
+        <mxCell id="uN1fEKKzv_iWE6055QBn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-12" target="uN1fEKKzv_iWE6055QBn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-12" target="uN1fEKKzv_iWE6055QBn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-12" target="uN1fEKKzv_iWE6055QBn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-12" target="uN1fEKKzv_iWE6055QBn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HyDi90Ld1Z15yoM46pRp-12" target="uN1fEKKzv_iWE6055QBn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HyDi90Ld1Z15yoM46pRp-12" value="Azure AI Foundry" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="370" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-1" value="Foundation models" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-3" value="Custom Generative AI Models" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-5" value="Mulitmodal models" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uN1fEKKzv_iWE6055QBn-7" target="uN1fEKKzv_iWE6055QBn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-7" value="Channels" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-9" value="End User" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uN1fEKKzv_iWE6055QBn-11" target="uN1fEKKzv_iWE6055QBn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-11" value="Horizontal Agent" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-13" value="Developer" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uN1fEKKzv_iWE6055QBn-15" value="Microsoft Fabric Healthcare Data Solutions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
